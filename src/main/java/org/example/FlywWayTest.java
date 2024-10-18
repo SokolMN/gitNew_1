@@ -1,2 +1,5 @@
-package org.example;public class FlywWayTest {
+package org.example;
+
+public class FlywWayTest {
+    String sqlname;
 }
